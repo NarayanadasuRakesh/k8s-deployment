@@ -66,5 +66,5 @@ spec:
     tier: db
   ports:
   - protocol: TCP
-    port: 3360
-    targetPort: 3360
+    port: 3306
+    targetPort: 3306
